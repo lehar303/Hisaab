@@ -1,17 +1,14 @@
-# trying_flutter
+# Hisaab
 
-A new Flutter project.
+Personal Expense Tracker. 
+I am careless when it comes to expenditure tracking. Hence made an app to track it for me.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Flutter application for Android. Tracks expense by reading transaction messages sent by bank.
 
-A few resources to get you started if this is your first Flutter project:
+Personalised Use Cases:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Budgetting
+- Reads only Debit and Credit messsages. Skips OTP messages.
+- Choice of bank. Flexible to add another bank.
