@@ -5,7 +5,7 @@ I am careless when it comes to expenditure tracking. Hence made an app to track 
 
 ## Description
 
-Flutter application for Android. Tracks expense by reading transaction messages sent by bank.
+Flutter application for Android. Tracks expenses by reading ONLY **transaction messages** sent by bank.
 
 Personalised Use Cases:
 
